@@ -1,5 +1,6 @@
 {
-  "main": "taggy",
+  "main": "node_modules/expo/AppEntry.js",
+  "name": "taggy",
   "author": "dxanh97",
   "version": "0.0.1",
   "scripts": {
